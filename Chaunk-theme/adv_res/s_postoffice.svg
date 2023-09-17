@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.0" width="580" height="580">
+ <metadata id="metadata2975"/>
+ <g id="g4155" transform="matrix(1.0775093,0,0,1.0918578,-24.218516,-24.99758)">
+  <rect y="152.75" x="109.52" height="272.35" width="363.85" id="rect4138-8" fill="#ffffff" stroke-linecap="round" stroke-width="12"/>
+  <rect y="152.75" x="109.52" height="272.35" width="363.85" id="rect4138" opacity="0.25" fill="#ac39ac" stroke-linecap="round" stroke-width="12"/>
+  <path id="flowRoot3192" d="m 131.79596,192.04629 96.45061,96.91985 -96.45061,96.45059 0,-193.37044 z M 431.85502,173.87381 313.05143,292.22239 c -5.90607,5.90595 -13.3618,8.85885 -22.36722,8.85872 -9.3187,1.3e-4 -17.08725,-3.10919 -23.30568,-9.32798 l -117.87932,-117.87932 282.35581,0 z m 18.64172,211.54292 -96.45061,-96.45059 96.45061,-96.91985 0,193.37044 z m -301.46678,18.17247 96.91984,-96.4506 4.19475,4.19474 c 11.18576,10.87326 24.69897,16.30983 40.53966,16.30972 15.84023,1.1e-4 29.19704,-5.43646 40.07045,-16.30972 l 4.19473,-4.19474 96.90563,96.4506 -282.82506,0 z m -43.3267,26.09271 371.82467,0 0,-282.37004 -371.82467,0 0,282.37004 z" inkscape:connector-curvature="0" fill="#ac39ac"/>
+ </g>
+</svg>

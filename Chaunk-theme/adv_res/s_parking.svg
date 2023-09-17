@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.0" width="580" height="580">
+ <metadata id="metadata10"/>
+ <defs id="defs4">
+  <marker viewBox="0 0 10 10" refY="5" refX="10" orient="auto" markerWidth="4" markerUnits="strokeWidth" markerHeight="3" id="ArrowStart">
+   <path id="path2295" d="M 10 0 L 0 5 L 10 10 z"/>
+  </marker>
+  <marker viewBox="0 0 10 10" refY="5" orient="auto" markerWidth="4" markerUnits="strokeWidth" markerHeight="3" id="ArrowEnd">
+   <path id="path2292" d="M 0 0 L 10 5 L 0 10 z"/>
+  </marker>
+ </defs>
+ <path d="m 155.35836,495.1504 0,-361.31214 135.94338,0 c 23.92713,3.7e-4 42.2004,1.15052 54.81985,3.45047 17.69943,2.95788 32.53108,8.58541 44.49501,16.88259 11.9634,8.29786 21.59169,19.92261 28.8849,34.87426 7.29263,14.95227 10.93908,31.383 10.93939,49.29224 -3.1e-4,30.72572 -9.75153,56.72735 -29.25364,78.00498 -19.50269,21.27796 -54.73813,31.91687 -105.70644,31.91672 l -92.43165,0 0,146.89088 -47.6908,0 z m 47.6908,-189.52868 93.16916,0 c 30.81034,2.1e-4 52.68908,-5.75055 65.6363,-17.25227 12.94673,-11.50131 19.42023,-27.68558 19.42048,-48.55287 -2.5e-4,-15.11602 -3.81059,-28.0552 -11.43104,-38.81763 -7.62095,-10.76184 -17.65894,-17.86813 -30.11405,-21.31889 -8.03061,-2.13569 -22.86227,-3.20369 -44.49501,-3.20399 l -92.18584,0 0,129.14565 z" id="text2419" inkscape:connector-curvature="0" fill="#0092da" stroke="#0092da" stroke-linejoin="round" stroke-linecap="round" stroke-width="22.688"/>
+</svg>
