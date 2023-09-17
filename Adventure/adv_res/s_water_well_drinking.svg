@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="580" height="580" viewBox="0 0 580 580" enable-background="new 0 0 580 580">
+ <metadata id="metadata15"/>
+ <path transform="matrix(0.9469422,0,0,0.9469422,84.37827,0.50623135)" d="m 505.71429,305.71429 a 288.57144,288.57144 0 1 1 -577.142879,0 288.57144,288.57144 0 1 1 577.142879,0 z" sodipodi:ry="288.57144" sodipodi:rx="288.57144" sodipodi:cy="305.71429" sodipodi:cx="217.14285" id="path3267-1" sodipodi:type="arc" fill="#ffffff"/>
+ <circle transform="translate(-4.6984862e-8,2.1530151e-6)" r="273.26" cy="290" cx="290" id="path3267" fill="#734a08"/>
+ <circle transform="translate(-4.6984862e-8,2.1530151e-6)" r="273.26" cy="290" cx="290" id="path2207-9" fill="none" stroke="#ffffff" stroke-width="23.804"/>
+ <circle transform="translate(-4.6984862e-8,2.1530151e-6)" r="273.26" cy="290" cx="290" id="path2207" opacity="0.5" fill="none" stroke="#734a08" stroke-width="23.804"/>
+ <path inkscape:connector-curvature="0" id="path9-4" d="M 516.3155,219.88017 H 443.546 v -89.0001 h -19.98 -3.2886 -38.6064 V 93.640766 H 349.9388 V 130.88007 H 305.612 v -16.5717 h -70.7643 v 16.5717 H 182.5325 V 91.992864 h -31.7403 v 38.888106 h -39.1077 v 23.2731 h 39.1086 v 144.3069 h -34.4574 v 46.55247 h 23.2758 v 134.9937 h 246.7107 v -134.9946 h 27.9351 V 298.46007 H 381.671 v -144.3069 h 38.6064 v 95.3694 h 23.2686 v -6.3693 h 72.7695 v -23.2731 z m -333.783,-65.727 h 52.3152 v 9.5301 h 7.6815 v 134.7768 h -59.9967 v -144.3069 z m 167.4063,144.3078 h -95.6484 v -134.7777 h 51.3216 v -9.5301 h 44.3259 v 144.3078 z" fill="#ffffff"/>
+</svg>
